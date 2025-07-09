@@ -1,0 +1,40 @@
+
+body {
+  background: linear-gradient(to bottom, black, #330000);
+  color: white;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background: #990000;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+nav a {
+  margin-left: 15px;
+  color: yellow;
+  text-decoration: none;
+}
+main {
+  padding: 20px;
+}
+h1, h2, h3 {
+  color: #ffcc00;
+}
+button {
+  background: red;
+  color: white;
+  border: none;
+  padding: 10px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+footer {
+  text-align: center;
+  padding: 10px;
+  background: black;
+  color: gray;
+}
